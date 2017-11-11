@@ -1,12 +1,12 @@
 ## skills  checklist：
--[ ] how to preprocess the data
--[ ]  extract features
--[ ]  how to set up the validation correctly
--[ ] and optimize the given metric
--[ ] You should know the potential sources of data leakages
--[ ]  what parameters to tune in your favorite models
--[ ]  how to generate powerful features
--[ ] how to ensemble the models
+- how to preprocess the data
+- extract features
+- how to set up the validation correctly
+- and optimize the given metric
+- You should know the potential sources of data leakages
+- what parameters to tune in your favorite models
+- how to generate powerful features
+- how to ensemble the models
 
 ## content in first week:
 
